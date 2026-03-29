@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Marry Me",
+  "base_artist": "ELLEGARDEN",
+  "createdAt": "2026-03-29T13:14:06.720489Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Will You Marry Me?",
+      "artist": "Paula Abdul",
+      "has_synced": true,
+      "path": "select/01_Will_You_Marry_Me_Paula_Abdul.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Marry Me",
+      "artist": "Farao",
+      "has_synced": false,
+      "path": "select/02_Marry_Me_Farao.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Archie, Marry Me",
+      "artist": "Alvvays",
+      "has_synced": true,
+      "path": "select/03_Archie,_Marry_Me_Alvvays.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Archie, Marry Me",
+      "artist": "Alvvays",
+      "has_synced": true,
+      "path": "select/04_Archie,_Marry_Me_Alvvays.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Marry Me - Remastered",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/05_Marry_Me_-_Remastered_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Marry Me",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/06_Marry_Me_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Marry Me",
+      "artist": "Emilie Autumn",
+      "has_synced": true,
+      "path": "select/07_Marry_Me_Emilie_Autumn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Marry Me",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/08_Marry_Me_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Do You Want To Marry Me",
+      "artist": "SKETCH SHOW",
+      "has_synced": false,
+      "path": "select/09_Do_You_Want_To_Marry_Me_SKETCH_SHOW.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Marry Me",
+      "artist": "St. Vincent",
+      "has_synced": true,
+      "path": "select/10_Marry_Me_St._Vincent.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Marry Me",
+      "artist": "Suburban Kids With Biblical Names",
+      "has_synced": true,
+      "path": "select/11_Marry_Me_Suburban_Kids_With_Biblical_Names.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Marry Me",
+      "artist": "The Vandals",
+      "has_synced": false,
+      "path": "select/12_Marry_Me_The_Vandals.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Marry Me, Ann",
+      "artist": "The Dickies",
+      "has_synced": true,
+      "path": "select/13_Marry_Me,_Ann_The_Dickies.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Will You Marry Me",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/14_Will_You_Marry_Me_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Marry Me",
+      "artist": "Betty Who",
+      "has_synced": true,
+      "path": "select/15_Marry_Me_Betty_Who.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Marry Me",
+      "artist": "ELLEGARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_Marry_Me_ELLEGARDEN.txt"
+    }
+  ]
+}
