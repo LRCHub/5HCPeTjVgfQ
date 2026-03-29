@@ -1,0 +1,56 @@
+# ELLEGARDEN – Marry Me
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Somewhere closer
+I can hear the wedding bell
+It's a fine day
+I am wearing a blue shirts
+like the sky
+I am standing in the line
+while holding confetti
+I see the girl of my dream is
+shining like the sun beside him
+Won't you marry me
+if I could be a rich boy
+Won't you marry me
+if I could be very handsome
+Won't you marry me
+if I could be a tall guy
+Don't you marry him
+if I could be in the next life
+You're an idol in high school
+He was a quarter back
+He has sold me a photocopy
+of your photograph
+I am standing in the line
+while holding confetti
+I see the girl of my dream is
+smiling like the sun
+in her wedding dress
+Won't you marry me
+if I could be a rich boy
+Won't you marry me
+if I could be very handsome
+Won't you marry me
+if I could be a tall guy
+Don't you marry him
+if I could be in the next life
+Maybe not
+She don't remember me
+Maybe not
+She don't know how I feel
+Maybe not
+She don't even know my last name
+＜♪＞
+Won't you marry me
+if I could be a rich boy
+Won't you marry me
+if I could be very handsome
+Won't you marry me
+if I could be a tall guy
+Don't you marry him
+He's just another stupid
+in the next life
+```
